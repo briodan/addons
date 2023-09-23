@@ -29,6 +29,14 @@ ha help
 
 You can access the web terminal by clicking the "Open Web UI" button on this add-on's Info tab. If you set the "Show in sidebar" setting (found on the same Info tab) to "on", a shortcut is added to the sidebar allowing you to access the web terminal quickly.
 
+To copy text in the Web UI:
+- hold down the shift key
+- select the text you want to copy
+- when you release the left mouse button the text will copy to your system clipboard
+
+To paste text in the WEB UI:
+- press Shift + Insert
+
 ### SSH Server Connection
 
 Remote SSH access from the network is disabled by default (See Network below).  To connect using an SSH client, such as PuTTY or Linux terminal, you need to supply additional configuration for this add-on. To enable SSH connectivity, you need to:
